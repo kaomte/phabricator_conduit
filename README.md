@@ -1,5 +1,7 @@
 # Phabricator
 
+Ripped from the phabricator ruby gem @ https://rubygems.org/gems/phabricator/versions/0.0.7
+
 ## Installation
 
 Add this line to your application's Gemfile:
