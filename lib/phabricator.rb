@@ -7,3 +7,4 @@ end
 
 require 'phabricator/conduit_client'
 require 'phabricator/maniphest'
+require 'phabricator/harbormaster'
